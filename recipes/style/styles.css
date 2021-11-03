@@ -21,6 +21,9 @@ li{
     font-size: small;
     font-weight: 200;
 }
-ul, ol{
+ul{
+    background-color: blanchedalmond;
+}
+ol{
     background-color: blanchedalmond;
 }
