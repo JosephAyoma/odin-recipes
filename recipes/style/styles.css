@@ -27,7 +27,7 @@ ol{
 }
 li{
     color: grey;
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New', Courier, monospace;
     font-size: small;
     font-weight: 200;
 }
